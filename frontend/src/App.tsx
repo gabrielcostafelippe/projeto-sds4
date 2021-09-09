@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      <h1>Memento mori</h1> 
+      <h1 className="text-primary">Memento mori</h1> 
     </div>
   );
 }
